@@ -1,0 +1,3 @@
+[submodule "compilation-metrics"]
+	path = compilation-metrics
+	url = https://github.com/dgoffredo/compilation-metrics
